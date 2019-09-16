@@ -1,0 +1,5 @@
+Building 5GL
+
+See doc/build-*.md for instructions on building 5gld,
+the intended-for-services, no-graphical-interface, reference
+implementation of 5GL.
